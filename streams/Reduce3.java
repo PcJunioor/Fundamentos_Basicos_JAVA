@@ -36,9 +36,13 @@ public class Reduce3 {
 				.map(getNota)
 				.reduce(new Media(), calcularMedia, combinarMedia);
 		System.out.println(media.getValor());
+<<<<<<< HEAD
 
 		// TESTANDO ALTERAÇÃO
 		// TESTANDO ALTERAÇÃO
+=======
+		System.out.println("TESTANDO ALTERA��O NO GITHUB!!!");
+>>>>>>> 233549a7664b44ac3806b1c491e553337e83bb2d
 		
 	}
 
