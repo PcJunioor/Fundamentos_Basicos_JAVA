@@ -53,6 +53,8 @@ public class Reduce3 {
 
 		//TERCEIRO TESTE DE MERGE
 
+		// TESTE DE PULL REQUEST
+
 		
 	}
 
