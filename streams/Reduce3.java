@@ -36,6 +36,9 @@ public class Reduce3 {
 				.map(getNota)
 				.reduce(new Media(), calcularMedia, combinarMedia);
 		System.out.println(media.getValor());
+
+		// TESTANDO ALTERAÇÃO
+		// TESTANDO ALTERAÇÃO
 		
 	}
 
