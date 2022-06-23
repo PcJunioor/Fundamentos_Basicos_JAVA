@@ -37,12 +37,19 @@ public class Reduce3 {
 				.reduce(new Media(), calcularMedia, combinarMedia);
 		System.out.println(media.getValor());
 
+<<<<<<< HEAD
 
 		// TESTANDO ALTERAÇÃO
 		// TESTANDO ALTERAÇÃO
 
 		System.out.println("TESTANDO ALTERAÇÃO NO GITHUB!!!");
 
+=======
+		// TESTANDO ALTERAÃ‡ÃƒO
+		// TESTANDO ALTERAÃ‡ÃƒO
+
+		//SEGUNDO TESTE DE MERGE
+>>>>>>> staging
 		
 	}
 
