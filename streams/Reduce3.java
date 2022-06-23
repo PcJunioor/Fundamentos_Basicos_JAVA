@@ -39,6 +39,8 @@ public class Reduce3 {
 
 		// TESTANDO ALTERAÇÃO
 		// TESTANDO ALTERAÇÃO
+
+		//SEGUNDO TESTE DE MERGE
 		
 	}
 
