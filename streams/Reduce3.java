@@ -50,6 +50,9 @@ public class Reduce3 {
 
 		//SEGUNDO TESTE DE MERGE
 
+
+		//TERCEIRO TESTE DE MERGE
+
 		
 	}
 
