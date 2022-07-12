@@ -6,6 +6,18 @@ public class Ana {
 	 String pacote = "PACOTE/DEFAULT";
 	 protected String protegido = "PROTECTED";
 	 public String publico = "PUBLICO";
+	/**
+	 * @return the segredo
+	 */
+	public String getSegredo() {
+		return segredo;
+	}
+	/**
+	 * @param segredo the segredo to set
+	 */
+	public void setSegredo(String segredo) {
+		this.segredo = segredo;
+	}
 	 
 	
 

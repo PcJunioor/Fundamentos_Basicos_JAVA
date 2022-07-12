@@ -1,6 +1,6 @@
 package oo.composicao;
 
-import java.util.Scanner;
+
 
 public class CursoTeste {
 	public static void main(String[] args) {
