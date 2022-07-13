@@ -1,4 +1,4 @@
-package exceção;
+package excecao;
 
 import java.util.Objects;
 

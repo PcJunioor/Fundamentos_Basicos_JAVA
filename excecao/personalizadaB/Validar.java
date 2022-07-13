@@ -1,6 +1,6 @@
-package exceção.personalizadaB;
+package excecao.personalizadaB;
 
-import exceção.Aluno;
+import excecao.Aluno;
 
 public class Validar {
 	private Validar() {}
@@ -10,7 +10,7 @@ public class Validar {
 	{
 		
 		if(aluno == null) {
-			throw new IllegalArgumentException("O aluno está nulo");
+			throw new IllegalArgumentException("O aluno estï¿½ nulo");
 		}
 		if(aluno.nome == null || aluno.nome.trim().isEmpty()) {
 			throw new StringVaziaException("nome");

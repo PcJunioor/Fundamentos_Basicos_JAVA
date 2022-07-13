@@ -1,4 +1,4 @@
-package exceção.personalizadaA;
+package excecao.personalizadaA;
 
 @SuppressWarnings("serial")
 public class numeroForaIntervaloException extends RuntimeException{
@@ -9,7 +9,7 @@ public class numeroForaIntervaloException extends RuntimeException{
 	}
 	
 	public String getMessage() {
-		return String.format("O Atributo '%s' está fora do intervalo",
+		return String.format("O Atributo '%s' estï¿½ fora do intervalo",
 				nomeDoAtributo);
 	}
 	

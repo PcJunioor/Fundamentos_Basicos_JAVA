@@ -1,6 +1,6 @@
-package exceção.personalizadaB;
+package excecao.personalizadaB;
 
-import exceção.Aluno;
+import excecao.Aluno;
 
 public class TesteValicacoes {
 	public static void main(String[] args) {

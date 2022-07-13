@@ -1,8 +1,8 @@
-package oo.herança.teste;
+package oo.heranca.teste;
 
 
-import oo.herança.DesafioHeranca.Civic;
-import oo.herança.DesafioHeranca.Ferrari;
+import oo.heranca.DesafioHeranca.Civic;
+import oo.heranca.DesafioHeranca.Ferrari;
 
 public class CarroTeste {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package oo.herança.DesafioHeranca;
+package oo.heranca.DesafioHeranca;
 
 public interface Luxo {
 	void ligarAr();

@@ -1,4 +1,4 @@
-package oo.herança.DesafioHeranca;
+package oo.heranca.DesafioHeranca;
 
 public class Ferrari extends Carro implements Esportivo, Luxo {
 	
@@ -22,7 +22,7 @@ public class Ferrari extends Carro implements Esportivo, Luxo {
 			velocidadeAtual += getDelta();
 		}
 		else
-			System.out.println("Velocidade máxima atingida!!");
+			System.out.println("Velocidade mï¿½xima atingida!!");
 
 	}
 	public void ligarAr() {

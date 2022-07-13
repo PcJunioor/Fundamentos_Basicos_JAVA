@@ -1,7 +1,7 @@
-package oo.herança.teste;
+package oo.heranca.teste;
 
-import oo.herança.Heroi;
-import oo.herança.Jogador;
+import oo.heranca.Heroi;
+import oo.heranca.Jogador;
 
 public class JogoTeste {
 	public static void main(String[] args) {

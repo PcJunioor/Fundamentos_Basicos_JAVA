@@ -1,4 +1,4 @@
-package oo.herança.DesafioHeranca;
+package oo.heranca.DesafioHeranca;
 
 public interface Esportivo {
 	 

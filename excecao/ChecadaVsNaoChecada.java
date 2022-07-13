@@ -1,4 +1,4 @@
-package exceção;
+package excecao;
 
 public class ChecadaVsNaoChecada {
 	public static void main(String[] args) {
@@ -19,12 +19,12 @@ public class ChecadaVsNaoChecada {
 		
 		
 	}
-	// EXCEÇÃO NÃO CHECADA OU NÃO VERIFICADA
+	// EXCEï¿½ï¿½O Nï¿½O CHECADA OU Nï¿½O VERIFICADA
 	public static void geraErro1() throws RuntimeException{
 		 throw new RuntimeException("Erro Runtime");
 		
 	}
-	// EXCEÇÃO CHECADA OU VERIFICADA
+	// EXCEï¿½ï¿½O CHECADA OU VERIFICADA
 	public static void geraErro2() throws Exception{
 		 throw new Exception("Erro Exception");
 		

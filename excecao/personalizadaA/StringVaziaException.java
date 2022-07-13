@@ -1,4 +1,4 @@
-package exceção.personalizadaA;
+package excecao.personalizadaA;
 
 @SuppressWarnings("serial")
 public class StringVaziaException extends RuntimeException{
@@ -9,7 +9,7 @@ public class StringVaziaException extends RuntimeException{
 	}
 	
 	public String getMessage() {
-		return String.format("O Atributo '%s' está vazio",
+		return String.format("O Atributo '%s' estï¿½ vazio",
 				nomeDoAtributo);
 	}
 	

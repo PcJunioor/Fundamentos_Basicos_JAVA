@@ -1,4 +1,4 @@
-package oo.herança.DesafioHeranca;
+package oo.heranca.DesafioHeranca;
 
  class Carro {
 	
@@ -35,7 +35,7 @@ package oo.herança.DesafioHeranca;
 			velocidadeAtual -= 5;
 		}
 		else
-			System.out.println("Carro já está parado");
+			System.out.println("Carro jï¿½ estï¿½ parado");
 		
 	}
 
